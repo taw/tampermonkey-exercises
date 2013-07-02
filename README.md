@@ -1,4 +1,4 @@
-tampermonkey-exercices
+tampermonkey-exercises
 ======================
 
 Tampermonkey exercises
