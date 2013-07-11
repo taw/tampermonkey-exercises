@@ -9,6 +9,6 @@
 
 // Hints:
 // * external links on Wikipedia all have class 'external'
-// * `target='_blank'` makes links open in new window.
-// * `$("tag.class")` finds all elements with given tag and class.
-// * `$("selector").attr("name", "value")` changes attribute.
+// * Settinc attribute `target` to `_blank` makes links open in new window.
+// * `$("some_tag.some_class")` finds all elements with given tag and class.
+// * `$("some_selector").attr("some_attribute", "some_value")` changes attribute.

@@ -9,6 +9,6 @@
 
 // Hints:
 // * Comments are in div with id `watch-discussion`
-// * `$("#id")` selects all documents with given id (presumably no more than one).
+// * `$("#some_id")` selects all documents with given id (presumably no more than one).
 // * Setting CSS property `display` to `none` hides an object.
-// * `$("selector").css("attribute", "value")` overrides CSS on objects.
+// * `$("some_selector").css("some_attribute", "some_value")` overrides CSS on objects.
